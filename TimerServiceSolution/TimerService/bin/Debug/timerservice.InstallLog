@@ -1,0 +1,13 @@
+﻿Installing assembly 'c:\bts\timerservicesolution\timerservice\bin\debug\timerservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\timerservicesolution\timerservice\bin\debug\timerservice.InstallLog
+   assemblypath = c:\bts\timerservicesolution\timerservice\bin\debug\timerservice.exe
+Installing service TimerService...
+Service TimerService has been successfully installed.
+Creating EventLog source TimerService in log Application...
+Committing assembly 'c:\bts\timerservicesolution\timerservice\bin\debug\timerservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\timerservicesolution\timerservice\bin\debug\timerservice.InstallLog
+   assemblypath = c:\bts\timerservicesolution\timerservice\bin\debug\timerservice.exe

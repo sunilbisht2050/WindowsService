@@ -1,0 +1,26 @@
+﻿Installing assembly 'c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.InstallLog
+   assemblypath = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe
+Installing service ThreadService...
+Creating EventLog source ThreadService in log Application...
+Rolling back assembly 'c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.InstallLog
+   assemblypath = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe
+Restoring event log to previous state for source ThreadService.
+Installing assembly 'c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.InstallLog
+   assemblypath = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe
+Installing service ThreadService...
+Service ThreadService has been successfully installed.
+Creating EventLog source ThreadService in log Application...
+Committing assembly 'c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.InstallLog
+   assemblypath = c:\bts\threadservicesolution\threadservice\bin\debug\threadservice.exe

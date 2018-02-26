@@ -1,0 +1,26 @@
+﻿Installing assembly 'c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.InstallLog
+   assemblypath = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe assembly.
+Committing assembly 'c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.InstallLog
+   assemblypath = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.InstallLog
+   assemblypath = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe
+Installing service MultiThreadedService...
+Service MultiThreadedService has been successfully installed.
+Creating EventLog source MultiThreadedService in log Application...
+Committing assembly 'c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.InstallLog
+   assemblypath = c:\bts\multithreadedservicesolution\multithreadedservice\bin\debug\multithreadedservice.exe
